@@ -6,6 +6,7 @@
         Díky NFC technologii se systém hodí i pro hry využívající fiktivní platební karty.
         Systém podporuje jak tradiční operace s potvrzením bankéře, tak moderní bezkontaktní platby.
     </p>
+        <strong>Ukázka projektu:</strong> <a href="https://youtu.be/DkrL1zbBdXI">https://youtu.be/DkrL1zbBdXI</a>
         <strong>Podpora:</strong> Pokud je cílem vytvořit hru pro děti, rád pomohu s kompletním nastavením hry. 
             Kontaktovat mě můžete na emailu: <a href="mailto:matyasuss@gmail.com">matyasuss@gmail.com</a>.
     <h2>Funkce systému</h2>
