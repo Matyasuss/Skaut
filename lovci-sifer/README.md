@@ -36,10 +36,13 @@
         <li>Do aplikace vložíme kódy šifer, jejich nápovědy a řešení</li>
         <li>Následně spustíme build a .apk soubor předáme uživatelům (nelze na iOS)</li>
     </ul>
-    <h2>Technologie</h2>
-    <ul>
-        <li><strong>Kotlin</strong></li>
-    </ul>
+    <h2>Vložení dat</h2>
+    <p>Data pro šifry jsou v aplikace v tomto formátu:<br>
+    "Kód šifry" to listOf(
+                "první nápověda",
+                "druhá nápověda",
+                "řešení šifry"
+            ),</p>
     <h2>Další informace</h2>
     <ul>
         <li><strong>Licence:</strong> ©Matyasuss 2024. Projekt je určen výhradně pro nekomerční použití.</li>
