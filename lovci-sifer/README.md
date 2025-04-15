@@ -38,11 +38,21 @@
     </ul>
     <h2>Vložení dat</h2>
     <p>Data pro šifry jsou v aplikace v tomto formátu:<br>
-    "Kód šifry" to listOf(
-                "první nápověda",
-                "druhá nápověda",
-                "řešení šifry"
-            ),</p>
+        val hints = remember { <br>
+            mutableMapOf(<br>
+                "kod 1. sifry" to listOf(<br>
+                    "1. nápověda pro 1. šifru",<br>
+                    "2. nápoveda pro 1. šifru",<br>
+                    "řešení pro 1. šifru"<br>
+                ),<br>
+                "kod 2. sifry" to listOf(<br>
+                    "1. nápověda pro 2. šifru",<br>
+                    "2. nápoveda pro 2. šifru",<br>
+                    "řešení pro 2. šifru"<br>
+                )<br>
+            )<br>
+        }<br>
+</p>
     <h2>Další informace</h2>
     <ul>
         <li><strong>Licence:</strong> ©Matyasuss 2024. Projekt je určen výhradně pro nekomerční použití.</li>
